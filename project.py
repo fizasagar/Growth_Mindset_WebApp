@@ -29,7 +29,7 @@ st.write("Welcome to your daily dose of growth and reflection. Every challenge i
 
 # Motivational Quote 
 st.header("💬 Today's Growth Mindset Quote")
-st.write("> \"Every error is a lesson in disguise. Debug, learn, and grow!\"")
+st.write("> \"Growth isn’t about being the best, it’s about getting better every day.\"")
 
 # Challenge Section
 st.header("🔥 What's Your Growth Challenge Today?")
